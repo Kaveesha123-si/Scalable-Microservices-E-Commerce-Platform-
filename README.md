@@ -1,0 +1,1 @@
+Developed a scalable Microservices E-Commerce Platform with AI recommendations, secure authentication, real-time communication, payment integration, Redis caching, Kafka messaging, and Kubernetes-based cloud deployment for high scalability and performance.
